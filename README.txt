@@ -14,5 +14,4 @@ The file
 
 	sosp-3-islands-2021.py
 
-is a text version of the preceding file.
-
+is a python code version of the preceding file.
