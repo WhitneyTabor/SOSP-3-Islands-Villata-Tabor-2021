@@ -1,0 +1,27 @@
+%% Coercions
+
+% Complementizer-to-complementizer
+1.0 Cthat : Cwhether
+1.0 Cthat : Cbecause
+1.0 Cwhether : Cbecause
+1.0 Cbecause : Cwhether
+
+% Verb-to-verb
+0.0 Vintrans : Vwonder
+0.0 Vintrans : Vtrans
+0.0 Vtrans : Vintrans
+0.0 Vtrans : Vwonder
+0.0 Vhearsent : Vintrans
+0.0 Vhearsent : Vtrans
+1.0 Vhearsent : Vwonder
+0.0 Vwonder : Vintrans
+0.0 Vwonder : Vtrans
+
+% Verb-to-VP
+0.0 Vhearsent : VP
+
+% Slash dropping
+0.0 Smax/whreport : Smax
+0.0 S/whreport : S
+0.0 VP/whreport : VP
+0.0 CPthat/whreport : CPthat

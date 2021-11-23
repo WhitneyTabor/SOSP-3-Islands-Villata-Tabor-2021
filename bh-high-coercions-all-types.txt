@@ -1,0 +1,12 @@
+%% Coercions
+
+% Complementizer-to-complementizer
+1.0 Cthat : Cwhether
+
+% Verb-to-verb
+1.0 Vhearsent : Vwonder
+
+% Verb-to-VP
+1.0 Vhearsent : VP
+
+% Slash dropping
