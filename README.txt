@@ -8,7 +8,7 @@ The file
 
 	sosp-3-islands-2021.ipynb
 
-contains instructions and code.  This a jupyter notebook (jupyter.org) with code in python.  Among others, anaconda (anaconda.com) is a good platform that supports jupyter with python.
+contains code and explanations.  This a jupyter notebook (jupyter.org) with code in python.  Among others, anaconda (anaconda.com) is a good platform that supports jupyter with python.
 
 The file
 
